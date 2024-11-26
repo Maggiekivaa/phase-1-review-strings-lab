@@ -6,4 +6,3 @@ const shortGreeting =" Welcome, M!";
 
 
 
-
